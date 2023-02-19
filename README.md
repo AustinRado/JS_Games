@@ -1,1 +1,1 @@
-Did a two player Rolling Dice Game that allows you to roll a dice and hold the current score. Thsi project increased my knowledge and score in javascript logic. I elaborate more about the game ogic and features in the Dice directory. 
+Did a two player Rolling Dice Game that allows you to roll a dice and hold the current score. This project increased my knowledge and score in javascript logic. I elaborate more about the game ogic and features in the Dice directory. 
